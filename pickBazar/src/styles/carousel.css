@@ -1,0 +1,33 @@
+.carousel{
+    width: 100%;
+    background-color: #f6f6f6;
+
+}
+
+.slider{
+    width: 90%;
+    margin: auto;    
+}
+
+.image1{
+    width: 90% !important;
+    height: 12rem;
+    background-color: #fff;
+    margin-top: 2rem;
+    position: relative;
+    border-radius: 10px;
+}
+.image1 img{
+    position: absolute;
+    top: 2rem;
+    left: 2rem;
+}
+
+.image1 span{
+    position: absolute;
+    top: 9rem;
+    left: 3.5rem;
+    font-weight: 400;
+    
+}
+
